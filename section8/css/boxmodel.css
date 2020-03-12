@@ -1,0 +1,15 @@
+.box-a {
+    background-color: cyan;
+    padding: 30px;
+    border: 3px solid black;
+    margin-bottom: 20px;
+    width: 250px;
+    height: 150px;
+    box-sizing: border-box;  /* note: hard rulle for setting fix width and height */
+}
+
+.box-b {
+    background-color: grey;
+    width: 250px;
+    height: 150px;
+}
